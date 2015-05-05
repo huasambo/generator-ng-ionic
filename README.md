@@ -1,0 +1,2 @@
+# generator-ionic
+Ionic generator
